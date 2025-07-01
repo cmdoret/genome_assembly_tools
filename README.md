@@ -113,11 +113,11 @@ Every month, a Github action automatically updates the README using the data and
 | [IPA](https://github.com/PacificBiosciences/pbipa) |  | 2022-3 |
 | [LJA](https://github.com/AntonBankevich/LJA) | 10.1101/2020.12.10.420448 | 2023-8 |
 | [mdBG](https://github.com/ekimb/rust-mdbg/) | 10.1016/j.cels.2021.08.009 | 2024-9 |
-| [MBG](https://github.com/maickrau/MBG) | 10.1093/bioinformatics/btab004 | 2024-3 |
+| [MBG](https://github.com/maickrau/MBG) | 10.1093/bioinformatics/btab004 | 2025-6 |
 | [NextDenovo](https://github.com/Nextomics/NextDenovo) |  | 2024-5 |
 | [Peregrine](https://github.com/cschin/Peregrine) |  | 2022-2 |
 | [Raven](https://github.com/lbcb-sci/raven) | 10.1038/s43588-021-00073-4 | 2023-11 |
-| [verkko](https://github.com/marbl/verkko) | 10.1101/2022.06.24.497523 | 2025-5 |
+| [verkko](https://github.com/marbl/verkko) | 10.1101/2022.06.24.497523 | 2025-6 |
 | [wtdbg2](https://github.com/ruanjue/wtdbg2) | 10.1038/s41592-019-0669-3 | 2020-12 |
 ## Assembly pre and post-processing
 
@@ -155,9 +155,9 @@ Every month, a Github action automatically updates the README using the data and
 | __Long reads + short reads__ | [ Hapo-G](https://github.com/institut-de-genomique/HAPO-G) | 10.1093/nargab/lqab034 | 2024-3 |
 |  | [HyPo](https://github.com/kensung-lab/hypo) | 10.1101/2019.12.19.882506 | 2020-2 |
 |  | [Racon](https://github.com/isovic/racon) | 10.1101/gr.214270.116 | 2020-8 |
-| __Short reads__ | [ntEdit](https://github.com/bcgsc/ntEdit) | 10.1093/bioinformatics/btz400 | 2025-2 |
+| __Short reads__ | [ntEdit](https://github.com/bcgsc/ntEdit) | 10.1093/bioinformatics/btz400 | 2025-6 |
 |  | [Pilon](https://github.com/broadinstitute/pilon) | 10.1371/journal.pone.0112963 | 2021-1 |
-|  | [POLCA](https://github.com/alekseyzimin/masurca) | 10.1371/journal.pcbi.1007981 | 2025-5 |
+|  | [POLCA](https://github.com/alekseyzimin/masurca) | 10.1371/journal.pcbi.1007981 | 2025-6 |
 |  | [Apollo](https://github.com/CMU-SAFARI/Apollo) | 10.1093/bioinformatics/btaa179 | 2020-5 |
 
 ### Haplotig purging
