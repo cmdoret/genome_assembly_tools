@@ -87,7 +87,7 @@ Every month, a Github action automatically updates the README using the data and
 
 | Assembler | Publication | Last update |
 |:----------|:------------|:------------|
-| [Canu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2026-2 |
+| [Canu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2026-6 |
 | [FALCON](https://github.com/PacificBiosciences/FALCON) | 10.1038/nmeth.4035 | 2018-4 |
 | [Flye](https://github.com/fenderglass/Flye) | 10.1038/s41587-019-0072-8 | 2025-5 |
 | [GoldRush](https://github.com/bcgsc/goldrush) | 10.1101/2022.10.25.513734 | 2026-3 |
@@ -108,7 +108,7 @@ Every month, a Github action automatically updates the README using the data and
 | Assembler | Publication | Last update |
 |:----------|:------------|:------------|
 | [Flye](https://github.com/fenderglass/Flye) | 10.1038/s41587-019-0072-8 | 2025-5 |
-| [HiCanu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2026-2 |
+| [HiCanu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2026-6 |
 | [hifiasm](https://github.com/chhylp123/hifiasm) | 10.1038/s41592-020-01056-5 | 2025-3 |
 | [IPA](https://github.com/PacificBiosciences/pbipa) |  | 2022-3 |
 | [LJA](https://github.com/AntonBankevich/LJA) | 10.1101/2020.12.10.420448 | 2023-8 |
@@ -125,7 +125,7 @@ Every month, a Github action automatically updates the README using the data and
  
 | Reads | Tool  | Publication | Last update |
 |:------|:------|:------------| ----------- |
-| __Long reads__ | [Canu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2026-2 |
+| __Long reads__ | [Canu](https://github.com/marbl/canu) | 10.1101/gr.215087.116 | 2026-6 |
 |  | [CONSENT](https://github.com/morispi/CONSENT) | 10.1038/s41598-020-80757-5 | 2024-2 |
 |  | [Daccord](https://github.com/gt1/daccord) | 10.1101/106252 | 2018-9 |
 |  | [FLAS](https://github.com/baoe/FLAS) | 10.1093/bioinformatics/btz206 | 2019-2 |
@@ -155,7 +155,7 @@ Every month, a Github action automatically updates the README using the data and
 | __Long reads + short reads__ | [ Hapo-G](https://github.com/institut-de-genomique/HAPO-G) | 10.1093/nargab/lqab034 | 2025-10 |
 |  | [HyPo](https://github.com/kensung-lab/hypo) | 10.1101/2019.12.19.882506 | 2020-2 |
 |  | [Racon](https://github.com/isovic/racon) | 10.1101/gr.214270.116 | 2020-8 |
-| __Short reads__ | [ntEdit](https://github.com/bcgsc/ntEdit) | 10.1093/bioinformatics/btz400 | 2026-5 |
+| __Short reads__ | [ntEdit](https://github.com/bcgsc/ntEdit) | 10.1093/bioinformatics/btz400 | 2026-6 |
 |  | [Pilon](https://github.com/broadinstitute/pilon) | 10.1371/journal.pone.0112963 | 2021-1 |
 |  | [POLCA](https://github.com/alekseyzimin/masurca) | 10.1371/journal.pcbi.1007981 | 2025-6 |
 |  | [Apollo](https://github.com/CMU-SAFARI/Apollo) | 10.1093/bioinformatics/btaa179 | 2020-5 |
@@ -167,7 +167,7 @@ Every month, a Github action automatically updates the README using the data and
 | __Long reads__ | [HaploMerger2](https://github.com/mapleforest/HaploMerger2) | 10.1093/bioinformatics/btx220 | 2026-5 |
 |  | [purge_dups](https://github.com/dfguan/purge_dups) | 10.1093/bioinformatics/btaa025 | 2025-10 |
 |  | [Purge Haplotigs](https://bitbucket.org/mroachawri/purge_haplotigs) |  10.1186/s12859-018-2485-7 | 2024-2 |
-| __Long reads + short reads__ | [Redundans](https://github.com/lpryszcz/redundans) | 10.1093/nar/gkw294 | 2025-4 |
+| __Long reads + short reads__ | [Redundans](https://github.com/lpryszcz/redundans) | 10.1093/nar/gkw294 | 2026-6 |
 
 ### Scaffolding
 
@@ -198,7 +198,7 @@ Every month, a Github action automatically updates the README using the data and
 |  | [FinisherSC](https://github.com/kakitone/finishingTool) | 10.1093/bioinformatics/btv280 | 2016-11 |
 |  | [gapless]() | 10.1101/2022.03.08.483466 |  |
 |  | [GoldRush](https://github.com/bcgsc/goldrush) | 10.1101/2022.10.25.513734 | 2026-3 |
-|  | [LINKS](https://github.com/bcgsc/LINKS) | 10.1186/s13742-015-0076-3 | 2026-3 |
+|  | [LINKS](https://github.com/bcgsc/LINKS) | 10.1186/s13742-015-0076-3 | 2026-6 |
 |  | [LRScaf](https://github.com/shingocat/lrscaf) | 10.1186/s12864-019-6337-2 | 2021-11 |
 |  | [npScarf](https://github.com/mdcao/npScarf) | 10.1038/ncomms14515 | 2019-10 |
 |  | [PBJelly](https://sourceforge.net/projects/pb-jelly/) | 10.1371/journal.pone.0047768 | 2017 |
