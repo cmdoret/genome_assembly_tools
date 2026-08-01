@@ -167,7 +167,7 @@ Every month, a Github action automatically updates the README using the data and
 | __Long reads__ | [HaploMerger2](https://github.com/mapleforest/HaploMerger2) | 10.1093/bioinformatics/btx220 | 2026-5 |
 |  | [purge_dups](https://github.com/dfguan/purge_dups) | 10.1093/bioinformatics/btaa025 | 2025-10 |
 |  | [Purge Haplotigs](https://bitbucket.org/mroachawri/purge_haplotigs) |  10.1186/s12859-018-2485-7 | 2024-2 |
-| __Long reads + short reads__ | [Redundans](https://github.com/lpryszcz/redundans) | 10.1093/nar/gkw294 | 2026-6 |
+| __Long reads + short reads__ | [Redundans](https://github.com/lpryszcz/redundans) | 10.1093/nar/gkw294 | 2026-7 |
 
 ### Scaffolding
 
